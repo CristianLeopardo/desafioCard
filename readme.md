@@ -1,0 +1,1 @@
+Se realizo una card, usando flexbox para practicar como alinear items en HTML
